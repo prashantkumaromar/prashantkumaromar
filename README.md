@@ -4,14 +4,14 @@
 -->
 
 <h1 align="center">Hi 👋, I'm Prashant Kumar</h1>
-<h3 align="center">Software Developer</h3>
+<h3 align="center">Software Developer and Data Scientist </h3>
 <h3 align="center"><a href="https://github.com/prashantkumaromar?tab=repositories" style="text-decoration:none;color:white">(My GitHub Repositories)</a></h3>
 
 <h3 align="center"></h3>
 
 [![Followers](https://img.shields.io/github/followers/prashantkumaromar?style=social)]()
 
-- 🔭 I’m currently learning **Python**
+
 
 - 🌱 I’m currently solving **data structure and algorithm** problems on **LeetCode**
 
