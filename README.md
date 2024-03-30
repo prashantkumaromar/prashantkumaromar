@@ -23,6 +23,10 @@ Databases:   			PostgreSQL, MongoDB, AWS DynamoDB, AWS Aurora
 ML and Data Analysis: 		Tableau, PyTorch, Numpy, Pandas, Tensorflow,  Librosa
 Other: 				AWS, Git, OpenCV, Docker, Kubernetes, Spark, Kafka
 
+Fueled by an unending curiosity, I am a lifetime learner and a tech-enthusiast. I'm always on the lookout for opportunities to use technology to simplify life and create impactful solutions. My foundational years in the tech world began with a Bachelor's and Master’s degree from Indian Institute of Science Education and Research Mohali
+, India, in 2020. My significant role at Pharmech Technologies working with client Bosch, has prepared me with the necessary skills and experiences to excel in SDE and Data Science roles
+
+
 
 
 
@@ -38,7 +42,7 @@ Other: 				AWS, Git, OpenCV, Docker, Kubernetes, Spark, Kafka
 
 - 🌱 I’m currently solving **data structure and algorithm** problems on **LeetCode**
 
-- 💬 Ask me about anything about **Python, Java** 
+- 💬 Ask me about anything about **Python, Java, and Machine Learning** 
 
 - 📫 How to reach me **pkumar32@buffalo.edu**
 
