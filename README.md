@@ -37,7 +37,7 @@ Fueled by an unending curiosity, I am a lifetime learner and a tech-enthusiast. 
 
 
 [![Followers](https://img.shields.io/github/followers/prashantkumaromar?style=social)]()
-
+![](https://visitor-badge.laobi.icu/badge?page_id=rishabagg.CharalambosIoannou)
 
 
 - 🌱 I’m currently solving **data structure and algorithm** problems on **LeetCode**
@@ -54,7 +54,40 @@ Fueled by an unending curiosity, I am a lifetime learner and a tech-enthusiast. 
 <a href="mailto: pkumar32@buffalo.edu" target="blank">
     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/320px-Gmail_icon_%282020%29.svg.png" alt="Kunal Chand" height="30" width="40" />
 </a>
+
+    
 </p>
+
+
+
+
+
+<p align="center">
+
+<a>![GitHub stats](https://github-readme-stats.vercel.app/api?username=rishabagg&show_icons=true&theme=tokyonight) </a>
+<a> ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rishabagg&theme=tokyonight) </a>
+
+</p>
+
+
+<a href="https://github.com/rishabagg/rishabagg">
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rishabagg&theme=gruvbox&hide_border=true)](https://github.com/rishabagg" alt="Rishab's GitHub Stats Graph"/>
+</a>
+<br><br>
+<h3>Longest vs Current Streak </h3>
+<a href="https://github.com/rishabagg/rishabagg">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rishabagg&theme=gruvbox" alt="Rishab's GitHub Streak Stats"/>
+</a>
+<br><br>
+<!-- <a href="https://github.com/rishabagg/rishabagg">
+  <img align="center" src="https://activity-graph.herokuapp.com/graph?username=rishabagg&theme=gruvbox&hide_border=true&custom_title=Contribution%20Graph" alt="Rishab's GitHub Contributions Graph"/>
+</a> -->
+</div>
+
+
+
+
+
 
 <p>
    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=prashantkumaromar&show_icons=true&locale=en&layout=compact&hide=jupyter%20notebook&theme=radical" alt="prashantkumaromar" width="500px" height="auto"/>
