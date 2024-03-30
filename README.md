@@ -37,7 +37,7 @@ Fueled by an unending curiosity, I am a lifetime learner and a tech-enthusiast. 
 
 
 [![Followers](https://img.shields.io/github/followers/prashantkumaromar?style=social)]()
-![](https://visitor-badge.laobi.icu/badge?page_id=rishabagg.CharalambosIoannou)
+![](https://visitor-badge.laobi.icu/badge?page_id=prashantkumaromar.CharalambosIoannou)
 
 
 - 🌱 I’m currently solving **data structure and algorithm** problems on **LeetCode**
@@ -64,23 +64,23 @@ Fueled by an unending curiosity, I am a lifetime learner and a tech-enthusiast. 
 
 <p align="center">
 
-<a>![GitHub stats](https://github-readme-stats.vercel.app/api?username=rishabagg&show_icons=true&theme=tokyonight) </a>
-<a> ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rishabagg&theme=tokyonight) </a>
+<a>![GitHub stats](https://github-readme-stats.vercel.app/api?username=prashantkumaromar&show_icons=true&theme=tokyonight) </a>
+<a> ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prashantkumaromar&theme=tokyonight) </a>
 
 </p>
 
 
-<a href="https://github.com/rishabagg/rishabagg">
-  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rishabagg&theme=gruvbox&hide_border=true)](https://github.com/rishabagg" alt="Rishab's GitHub Stats Graph"/>
+<a href="https://github.com/prashantkumaromar/prashantkumaromar">
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prashantkumaromar&theme=gruvbox&hide_border=true)](https://github.com/prashantkumaromar" alt="Rishab's GitHub Stats Graph"/>
 </a>
 <br><br>
 <h3>Longest vs Current Streak </h3>
-<a href="https://github.com/rishabagg/rishabagg">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rishabagg&theme=gruvbox" alt="Rishab's GitHub Streak Stats"/>
+<a href="https://github.com/prashantkumaromar/prashantkumaromar">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prashantkumaromar&theme=gruvbox" alt="Rishab's GitHub Streak Stats"/>
 </a>
 <br><br>
-<!-- <a href="https://github.com/rishabagg/rishabagg">
-  <img align="center" src="https://activity-graph.herokuapp.com/graph?username=rishabagg&theme=gruvbox&hide_border=true&custom_title=Contribution%20Graph" alt="Rishab's GitHub Contributions Graph"/>
+<!-- <a href="https://github.com/prashantkumaromar/prashantkumaromar">
+  <img align="center" src="https://activity-graph.herokuapp.com/graph?username=prashantkumaromar&theme=gruvbox&hide_border=true&custom_title=Contribution%20Graph" alt="Rishab's GitHub Contributions Graph"/>
 </a> -->
 </div>
 
