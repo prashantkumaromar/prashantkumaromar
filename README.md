@@ -88,13 +88,6 @@ Fueled by an unending curiosity, I am a lifetime learner and a tech-enthusiast. 
 
 
 
-
-<p>
-   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=prashantkumaromar&show_icons=true&locale=en&layout=compact&hide=jupyter%20notebook&theme=radical" alt="prashantkumaromar" width="500px" height="auto"/>
-</p>
-
-[![Prashant's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=prashantkumaromar&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 <h3 align="left">Familiar Languages and Tools:</h3>
 <p align="left"> 
    <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
