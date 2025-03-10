@@ -13,7 +13,7 @@
 
 
 
-I am a Software Engineer in JP Morgan in contract role and a Data science graduate from the State University of New York at Buffalo, with around 3 years of overall experience in Software Engineering and Machine Learning, currently proactively seeking opportunities in Software Development Engineering (SDE) and Data Science roles. My technology journey is powered by a deep passion and a robust foundation in software development, cultivated through a combination of academic projects and professional experiences. My tenure at Pharmech Technologies, in partnership with Bosch, allowed me to delve into high-impact projects, sharpening my skills as a full-stack engineer. My expertise spans a comprehensive array of tools and languages, including Spring Integration, Javascript, ReactJs, CSS, Python, Java, C++, and Git, among others.
+I am a Software Engineer in JP Morgan in contract role and a Data science graduate from the State University of New York at Buffalo, with around 5 years of overall experience in Software Engineering and Machine Learning, currently proactively seeking opportunities in Software Development Engineering (SDE) and Data Science roles. My technology journey is powered by a deep passion and a robust foundation in software development, cultivated through a combination of academic projects and professional experiences. My tenure at Pharmech Technologies, in partnership with Bosch, allowed me to delve into high-impact projects, sharpening my skills as a full-stack engineer. My expertise spans a comprehensive array of tools and languages, including Spring Integration, Javascript, ReactJs, CSS, Python, Java, C++, and Git, among others.
 
 
 TECHNICAL SKILLS-  
