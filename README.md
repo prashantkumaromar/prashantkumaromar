@@ -44,14 +44,14 @@ Fueled by an unending curiosity, I am a lifetime learner and a tech-enthusiast. 
 
 - 💬 Ask me about anything about **Python, Java, and Machine Learning** 
 
-- 📫 How to reach me **prashant1651kumar@gmail.combuffalo.edu**
+- 📫 How to reach me **prashant1651kumar@gmail.com**
 
 - 👨‍💻 All my projects are available at [**my GitHub Repositories**](https://github.com/prashantkumaromar?tab=repositories)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/prashant-kumar-0124ba155/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Prashant-Kumar" height="30" width="40" /></a>
-<a href="mailto: prashant1651kumar@gmail.combuffalo.edu" target="blank">
+<a href="mailto: prashant1651kumar@gmail.com" target="blank">
     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/320px-Gmail_icon_%282020%29.svg.png" alt="Kunal Chand" height="30" width="40" />
 </a>
 
