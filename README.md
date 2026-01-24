@@ -13,7 +13,7 @@
 
 
 
-I am a Software Engineer in JP Morgan in contract role and a Data science graduate from the State University of New York at Buffalo, with around 5 years of overall experience in Software Engineering and Machine Learning, currently proactively seeking opportunities in Software Development Engineering (SDE) and Data Science roles. My technology journey is powered by a deep passion and a robust foundation in software development, cultivated through a combination of academic projects and professional experiences. My tenure at Pharmech Technologies, in partnership with Bosch, allowed me to delve into high-impact projects, sharpening my skills as a full-stack engineer. My expertise spans a comprehensive array of tools and languages, including Spring Integration, Javascript, ReactJs, CSS, Python, Java, C++, and Git, among others.
+I am a Software Engineer in JP Morgan in and a Data science graduate from the State University of New York at Buffalo, with around 6 years of overall experience in Software Engineering and Machine Learning, currently proactively seeking opportunities in Software Development Engineering (SDE) and Data Science roles. My technology journey is powered by a deep passion and a robust foundation in software development, cultivated through a combination of academic projects and professional experiences. My expertise spans a comprehensive array of tools and languages, including Spring Integration, Javascript, ReactJs, CSS, Python, Java, C++, and Git, among others.
 
 
 TECHNICAL SKILLS-  
@@ -24,7 +24,7 @@ ML and Data Analysis: 		Tableau, PyTorch, Numpy, Pandas, Tensorflow,  Librosa
 Other: 				AWS, Git, OpenCV, Docker, Kubernetes, Spark, Kafka
 
 Fueled by an unending curiosity, I am a lifetime learner and a tech-enthusiast. I'm always on the lookout for opportunities to use technology to simplify life and create impactful solutions. My foundational years in the tech world began with a Bachelor's and Master’s degree from Indian Institute of Science Education and Research Mohali
-, India, in 2020. My significant role at Pharmech Technologies working with client Bosch, has prepared me with the necessary skills and experiences to excel in SDE and Data Science roles
+, India, in 2018. My significant role at Pharmech Technologies working with client Bosch, has prepared me with the necessary skills and experiences to excel in SDE and Data Science roles
 
 
 
