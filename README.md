@@ -24,7 +24,7 @@ ML and Data Analysis: 		Tableau, PyTorch, Numpy, Pandas, Tensorflow,  Librosa
 Other: 				AWS, Git, OpenCV, Docker, Kubernetes, Spark, Kafka
 
 Fueled by an unending curiosity, I am a lifetime learner and a tech-enthusiast. I'm always on the lookout for opportunities to use technology to simplify life and create impactful solutions. My foundational years in the tech world began with a Bachelor's and Master’s degree from Indian Institute of Science Education and Research Mohali
-, India, in 2018. My significant role at Pharmech Technologies working with client Bosch, has prepared me with the necessary skills and experiences to excel in SDE and Data Science roles
+, India, in 2018. 
 
 
 
@@ -46,7 +46,6 @@ Fueled by an unending curiosity, I am a lifetime learner and a tech-enthusiast. 
 
 - 📫 How to reach me **prashant1651kumar@gmail.com**
 
-- 👨‍💻 All my projects are available at [**my GitHub Repositories**](https://github.com/prashantkumaromar?tab=repositories)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -63,22 +62,10 @@ Fueled by an unending curiosity, I am a lifetime learner and a tech-enthusiast. 
 
 
 <p align="center">
-
-<a>![GitHub stats](https://github-readme-stats.vercel.app/api?username=prashantkumaromar&show_icons=true&theme=tokyonight) </a>
-<a> ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prashantkumaromar&theme=tokyonight) </a>
-
+ 
 </p>
 
-
-<a href="https://github.com/prashantkumaromar/prashantkumaromar">
-  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prashantkumaromar&theme=gruvbox&hide_border=true)](https://github.com/prashantkumaromar" alt="Rishab's GitHub Stats Graph"/>
-</a>
-<br><br>
-<h3>Longest vs Current Streak </h3>
-<a href="https://github.com/prashantkumaromar/prashantkumaromar">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prashantkumaromar&theme=gruvbox" alt="Rishab's GitHub Streak Stats"/>
-</a>
-<br><br>
+  
 <!-- <a href="https://github.com/prashantkumaromar/prashantkumaromar">
   <img align="center" src="https://activity-graph.herokuapp.com/graph?username=prashantkumaromar&theme=gruvbox&hide_border=true&custom_title=Contribution%20Graph" alt="Rishab's GitHub Contributions Graph"/>
 </a> -->
